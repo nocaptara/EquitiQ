@@ -1,0 +1,4 @@
+.env
+venv
+faiss_store_gemini.pkl
+vector_index.pkl
