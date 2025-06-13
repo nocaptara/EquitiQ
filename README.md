@@ -1,4 +1,4 @@
-# News Research Tool
+# EquitiQ - A News Research Tool
 
 A modern, AI-powered research assistant for news articles. This tool enables users to ask questions in natural language and receive accurate, source-backed answers, leveraging advanced language models, semantic search, and retrieval-augmented generation (RAG).
 
